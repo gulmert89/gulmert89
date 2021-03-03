@@ -13,5 +13,5 @@ Actually, my B.Sc degree is mechanical engineering and I'd worked in automotive 
 [![CV](https://img.shields.io/badge/CV-Featured-orange)](https://dar.vin/mg-cv)
 [![CV0](https://img.shields.io/badge/CV-Plain-green)](https://dar.vin/mg-cv0)
 
-Alright. After listing all the cool features & fancy keywords, now we can have some real chat if you like. Feel free to send me a message about anything! I also would be thrilled to talk about deep learning and computer vision subjects.
+Alright. After listing all the cool features & fancy keywords, now we can have some real chat if you like. Feel free to send me a message about anything! I also would be thrilled to talk about deep learning and computer vision subjects.<br>
 Wish you a journey full of excitements and fun! 🏴‍☠️
