@@ -10,8 +10,8 @@ Actually, my B.Sc degree is mechanical engineering and I'd worked in automotive 
 [![Gmail](https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&labelColor=white&color=red)](mailto:gul.mert89@gmail.com)<br>
 
 *If you are a recruiter, I have something extra for you here:*<br>
-[![CV](https://img.shields.io/badge/CV-Featured-orange)](https://dar.vin/mg-cv)
-<!--[![CV0](https://img.shields.io/badge/CV-Plain-green)](https://dar.vin/mg-cv0)-->
+[![CV](https://img.shields.io/badge/CV-Plain-orange)](https://dar.vin/mg-cv)
+<!--[![CV0](https://img.shields.io/badge/CV-Featured-green)](https://dar.vin/mg-cv0)-->
 
 Alright. After listing all the cool features & fancy keywords, now we can have some real chat if you like. Feel free to send me a message about anything! I also would be thrilled to talk about deep learning and computer vision subjects.<br>
 
