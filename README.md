@@ -1,6 +1,6 @@
 ### Welcome to another "featured" profile in GitHub ocean.😄
-Hey! This is Mert. It's nice to have you here :)<br>I am a passionate data scientist who had an 8-month-long professional bootcamp training on data science and keep training myself as a full-stack AI developer. ***Data scraping***, ***deep learning***, ***computer vision*** skills and ***generative models*** are the flagships in my fleet. Currently, I am working in an e-commerce company on both CV & NLP projects.<br>
-Actually, my B.Sc degree is mechanical engineering and I had worked in automotive industry for two years but quit my job to follow my childhood passion in computer science. :relaxed: <br>Feel free to send me a message about anything! I would be thrilled to talk about deep learning and computer vision  and especially ***GANs*** and related subjects.
+Hey! This is Mert. It's nice to have you here :)<br>I am a passionate data scientist who had an 8-month-long professional bootcamp training on data science and keep training myself as a full-stack AI developer. ***Data scraping***, ***deep learning***, ***computer vision*** skills and ***generative models*** are the flagships in my fleet. Currently, I am working in an e-commerce company.<br>
+My B.Sc degree is mechanical engineering and I had worked in automotive industry for two years but quit my job to follow my childhood passion in computer science. :relaxed: <br>Feel free to send me a message about anything! I would be thrilled to talk about deep learning and computer vision  and especially ***GANs*** and related subjects.
 
 Wish you a journey full of excitements and fun! 🏴‍☠️
 
