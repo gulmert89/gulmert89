@@ -1,5 +1,5 @@
-### Welcome to another "featured" profile in GitHub ocean.😄
-Hey! This is Mert. It's nice to have you here :)<br>I am a passionate data scientist who had an 8-month-long professional bootcamp training on data science and keep training myself as a full-stack AI developer. ***Data scraping***, ***deep learning***, ***computer vision*** skills and ***generative models*** are my most trusted cap'ns in my fleet. Feel free to send me a message about anything!
+### Hey! This is Mert. It's nice to have you here 😄
+I am a passionate deep learning engineer and an ex-mechanical engineer who had an 8-month-long professional bootcamp training on data science and made his dreams come true :) _Data scraping_, _computer vision_, a bit _natural language processing_ and _generative models_ are some of the tools in my toolbox :) Feel free to send me a message about anything!
 
 Wish you a journey full of excitements and fun! 🏴‍☠️
 
