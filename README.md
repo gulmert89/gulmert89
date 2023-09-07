@@ -1,5 +1,5 @@
 ### Hey! This is Mert. It's nice to have you here 😄
-I am a passionate deep learning engineer and an ex-mechanical engineer who had an 8-month-long professional bootcamp training on data science and made his dreams come true :) _Data scraping_, _computer vision_, a bit _natural language processing_ and _generative models_ are some of the tools in my toolbox :) Feel free to send me a message about anything!
+I am a passionate deep learning engineer and an ex-mechanical engineer who had an 8-month-long professional bootcamp training on data science and made his dreams come true :) _Data scraping_, _computer vision_, _natural language processing_ and _generative models_ are some of the tools in my toolbox :) Feel free to send me a message about anything!
 
 Wish you a journey full of excitements and fun! 🏴‍☠️
 
